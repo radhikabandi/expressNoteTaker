@@ -32,5 +32,3 @@ AS A small business owner
 Check out the deployed app here
 
 ### **Screenshots-**
-
-![](Screen1.png)![](notes.png)
